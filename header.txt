@@ -1,4 +1,6 @@
 
+<<<<<<< HEAD
 Some text 
 Changes from main
 New changes from main
+new ...
